@@ -1,0 +1,26 @@
+{
+  "name": "the_library",
+  "version": "1.0.0",
+  "description": "Library Test Code",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "cd src && bower install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlflores/the_library.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlflores/the_library/issues"
+  },
+  "homepage": "https://github.com/jlflores/the_library#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.12",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-sass": "^3.1.0"
+  }
+}

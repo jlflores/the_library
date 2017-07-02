@@ -1,0 +1,20 @@
+{
+  "name": "the_library",
+  "homepage": "https://github.com/jlflores/the_library",
+  "authors": [
+    "Jorge Flores <floreso.jorgel@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
